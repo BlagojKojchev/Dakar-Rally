@@ -1,0 +1,12 @@
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Data\bin\Debug\netcoreapp3.1\DakarRally.Data.deps.json
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Data\bin\Debug\netcoreapp3.1\DakarRally.Data.dll
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Data\bin\Debug\netcoreapp3.1\DakarRally.Data.pdb
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Data\obj\Debug\netcoreapp3.1\DakarRally.Data.AssemblyInfoInputs.cache
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Data\obj\Debug\netcoreapp3.1\DakarRally.Data.AssemblyInfo.cs
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Data\obj\Debug\netcoreapp3.1\DakarRally.Data.csproj.CoreCompileInputs.cache
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Data\obj\Debug\netcoreapp3.1\DakarRally.Data.dll
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Data\obj\Debug\netcoreapp3.1\DakarRally.Data.pdb
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Data\bin\Debug\netcoreapp3.1\DakarRally.Data.runtimeconfig.json
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Data\bin\Debug\netcoreapp3.1\DakarRally.Data.runtimeconfig.dev.json
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Data\obj\Debug\netcoreapp3.1\DakarRally.Data.genruntimeconfig.cache
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Data\obj\Debug\netcoreapp3.1\DakarRally.Data.csproj.AssemblyReference.cache

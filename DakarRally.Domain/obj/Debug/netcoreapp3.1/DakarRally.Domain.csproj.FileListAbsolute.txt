@@ -1,0 +1,12 @@
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Domain\bin\Debug\netcoreapp3.1\DakarRally.Domain.deps.json
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Domain\bin\Debug\netcoreapp3.1\DakarRally.Domain.dll
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Domain\bin\Debug\netcoreapp3.1\DakarRally.Domain.pdb
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Domain\obj\Debug\netcoreapp3.1\DakarRally.Domain.AssemblyInfoInputs.cache
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Domain\obj\Debug\netcoreapp3.1\DakarRally.Domain.AssemblyInfo.cs
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Domain\obj\Debug\netcoreapp3.1\DakarRally.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Domain\obj\Debug\netcoreapp3.1\DakarRally.Domain.dll
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Domain\obj\Debug\netcoreapp3.1\DakarRally.Domain.pdb
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Domain\bin\Debug\netcoreapp3.1\DakarRally.Data.dll
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Domain\bin\Debug\netcoreapp3.1\DakarRally.Data.pdb
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Domain\obj\Debug\netcoreapp3.1\DakarRally.Domain.csproj.AssemblyReference.cache
+C:\Users\Blagoja\source\repos\DakarRally\DakarRally.Domain\obj\Debug\netcoreapp3.1\DakarRally.Domain.csproj.CopyComplete
